@@ -1,12 +1,18 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Image Selector",
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading",
+        "default": "Custom Heading for Images"
+      }
+    ],
+    "presets": [
+      {
+        "name":"Image Selector"
+      }
+    ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
