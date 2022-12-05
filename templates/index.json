@@ -220,6 +220,12 @@
       "settings": {
         "heading": "My custom heading"
       }
+    },
+    "0c381fa0-6bf4-4d5a-9aa2-7335f6cc4cc2": {
+      "type": "image-selector",
+      "settings": {
+        "heading": "Bringing forth the Images"
+      }
     }
   },
   "order": [
@@ -228,6 +234,7 @@
     "featured_collection",
     "collage",
     "video",
-    "8bfd2f1f-b5df-416b-b85c-ade335af51ca"
+    "8bfd2f1f-b5df-416b-b85c-ade335af51ca",
+    "0c381fa0-6bf4-4d5a-9aa2-7335f6cc4cc2"
   ]
 }
