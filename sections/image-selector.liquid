@@ -1,3 +1,12 @@
+<h2>{{ section.settings.heading }}</h2>
+<div class="imageContainer">
+  <div class="imageContainer.image">
+    <img src="{{ block.settings.image | img_url: "master" }}"/>
+  </div>
+  <h4 class="imageContainer.title"></h4>
+  <p class="imageContainer.description"></p>
+</div>
+
 {% schema %}
   {
     "name": "Image Selector",
@@ -7,6 +16,31 @@
         "id": "heading",
         "label": "Heading",
         "default": "Custom Heading for Images"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "column",
+        "name": "slide",
+        "settings": [
+          {
+            "type" : "image_picker",
+            "id" : "id",
+            "label": "Select an Image"
+          },
+          {
+            "type": "text",
+            "id" : "title",
+            "label" : "Image Title",
+            "default" : "Custom Image Title"
+          },
+          {
+            "type": "text",
+            "id" : "description",
+            "label" : "t:Image Description",
+            "default" : "Custom Image Description"
+          }
+        ]
       }
     ],
     "presets": [
