@@ -231,10 +231,19 @@
             "title": "Candle",
             "description": "beautifully scented"
           }
+        },
+        "e7617e91-447d-46ab-9e0a-7baa0b66c984": {
+          "type": "column",
+          "settings": {
+            "id": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg",
+            "title": "Bowl",
+            "description": "handmade bowl"
+          }
         }
       },
       "block_order": [
-        "494670d5-8dd3-44cc-8228-40fb2aadd433"
+        "494670d5-8dd3-44cc-8228-40fb2aadd433",
+        "e7617e91-447d-46ab-9e0a-7baa0b66c984"
       ],
       "settings": {
         "heading": "Whale hello there!"
