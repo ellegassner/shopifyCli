@@ -1,6 +1,6 @@
 <h2>{{ section.settings.heading }}</h2>
-<div class="imageContainer">
-  <div class="imageContainer.image">
+<div class="columnContainer">
+  <div class="imageContainer">
     <img src="{{ block.settings.image | img_url: "master" }}"/>
   </div>
   <h4 class="imageContainer.title"></h4>
@@ -9,10 +9,9 @@
 
 <style>
   .imageContainer {
-    display: flex;
-    gap: 1em;
-    justify-content: space-around
+    width: 10vw;
   }
+  .
 </style>
 
 {% schema %}
