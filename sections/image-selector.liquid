@@ -1,15 +1,12 @@
-<div class="customSection">
-  <h2>{{ section.settings.heading }}</h2>
-  <div class="mainContainer">
-    <div class="slideContainer">
-      <div class="imageContainer">
-        <img src="{{ block.settings.image | img_url: 'master' }}"/>
-      </div>
-      <h4 class="imageContainer.title">{{ block.settings.title }}</h4>
-      <p class="imageContainer.description">{{ block.settings.description }}</p>
-    </div>
-  </div>
+
+<h2>{{ section.settings.heading }}</h2>
+<div class="mainContainer">
+  <img src="{{ block.settings.image | img_url: 'master'}}"/>
+  <img src="{{ block.settings.image | img_url: 'master'}}"/>
+  <img src="{{ block.settings.image | img_url: 'master'}}"/>
+  <img src="{{ block.settings.image | img_url: 'master'}}"/>
 </div>
+
 
 
 <style>
@@ -22,7 +19,7 @@
   }
   
   .imageContainer img {
-    width: 10vw;
+    width: 6vw;
   }
   .
 </style>
