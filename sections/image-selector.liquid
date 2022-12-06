@@ -1,13 +1,21 @@
 <h2>{{ section.settings.heading }}</h2>
-<div class="columnContainer">
-  <div class="imageContainer">
-    <img src="{{ block.settings.image | img_url: "master" }}"/>
+<div class="customSection">
+  <div class="slideContainer">
+    <div class="imageContainer">
+      <img src="{{ block.settings.image | img_url: "master" }}"/>
+    </div>
+    <h4 class="imageContainer.title"></h4>
+    <p class="imageContainer.description"></p>
   </div>
-  <h4 class="imageContainer.title"></h4>
-  <p class="imageContainer.description"></p>
 </div>
 
+
 <style>
+  .customSection {
+    display: flex;
+    justify-content: space-around,
+    
+  }
   .imageContainer {
     width: 10vw;
   }
