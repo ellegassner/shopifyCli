@@ -229,12 +229,21 @@
           "settings": {
             "id": "shopify:\/\/shop_images\/2596E9D6-493C-4EE5-BE5D-BC70602D4548.jpg",
             "title": "Hello There!",
-            "description": "Custom Image Description"
+            "description": "beautifully handmade table"
+          }
+        },
+        "4b4d4537-ed66-4c40-b8cf-c48216e4d5c2": {
+          "type": "column",
+          "settings": {
+            "id": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
+            "title": "Hello again",
+            "description": "bowls for days"
           }
         }
       },
       "block_order": [
-        "61b545d5-5d0c-4287-a3b4-83d66430ad97"
+        "61b545d5-5d0c-4287-a3b4-83d66430ad97",
+        "4b4d4537-ed66-4c40-b8cf-c48216e4d5c2"
       ],
       "settings": {
         "heading": "Custom Heading for Images"
