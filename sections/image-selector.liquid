@@ -1,10 +1,9 @@
 
 <h2>{{ section.settings.heading }}</h2>
 <div class="mainContainer">
-  <img src="{{ section.block.settings.image | img_url: 'master'}}"/>
-  <img src="{{ section.block.settings.image | img_url: 'master'}}"/>
-  <img src="{{ section.block.settings.image | img_url: 'master'}}"/>
-  <img src="{{ section.block.settings.image | img_url: 'master'}}"/>
+  {% for block in section.blocks %}
+    <img src="{{ block.settings.image | img_url: 'master'}}"/>
+  {% endfor %}
 </div>
 
 
