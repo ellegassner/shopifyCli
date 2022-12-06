@@ -5,13 +5,16 @@
     <div class="imageContainer">
       <img src="{{ block.settings.image | img_url: 'master'}}"/>
     </div>
+    <h4>{{ block.settings.title }}</h4>
+    <p>{{ block.settings.description }}</p>
   {% endfor %}
 </div>
 
 
 
 <style>
-  h2 {
+  h2,
+  h4 {
     text-align: center;
   }
   
