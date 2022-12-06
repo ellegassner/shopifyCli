@@ -223,8 +223,21 @@
     },
     "0c381fa0-6bf4-4d5a-9aa2-7335f6cc4cc2": {
       "type": "image-selector",
+      "blocks": {
+        "494670d5-8dd3-44cc-8228-40fb2aadd433": {
+          "type": "column",
+          "settings": {
+            "id": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg",
+            "title": "Candle",
+            "description": "beautifully scented"
+          }
+        }
+      },
+      "block_order": [
+        "494670d5-8dd3-44cc-8228-40fb2aadd433"
+      ],
       "settings": {
-        "heading": "Bringing forth the Images"
+        "heading": "Whale hello there!"
       }
     }
   },
