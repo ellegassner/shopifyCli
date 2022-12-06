@@ -231,10 +231,19 @@
             "title": "Aerial Photography",
             "description": "taken in BC"
           }
+        },
+        "49b92b8c-36c4-4267-814a-82fbbd3059e8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg",
+            "title": "Wooden Bowl",
+            "description": "Handmade in Vancouver"
+          }
         }
       },
       "block_order": [
-        "897f4d85-5584-46b6-bd46-acbf0823210d"
+        "897f4d85-5584-46b6-bd46-acbf0823210d",
+        "49b92b8c-36c4-4267-814a-82fbbd3059e8"
       ],
       "settings": {
         "heading": "Custom Heading for Images"
