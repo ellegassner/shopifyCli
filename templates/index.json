@@ -221,32 +221,22 @@
         "heading": "My custom heading"
       }
     },
-    "0c381fa0-6bf4-4d5a-9aa2-7335f6cc4cc2": {
+    "d1d5c9f0-f5b2-49a8-b082-1d4ae08abb4c": {
       "type": "image-selector",
       "blocks": {
-        "494670d5-8dd3-44cc-8228-40fb2aadd433": {
+        "61b545d5-5d0c-4287-a3b4-83d66430ad97": {
           "type": "column",
           "settings": {
-            "id": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg",
-            "title": "Candle",
-            "description": "beautifully scented"
-          }
-        },
-        "e7617e91-447d-46ab-9e0a-7baa0b66c984": {
-          "type": "column",
-          "settings": {
-            "id": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg",
-            "title": "Bowl",
-            "description": "handmade bowl"
+            "title": "Hello There!",
+            "description": "Custom Image Description"
           }
         }
       },
       "block_order": [
-        "494670d5-8dd3-44cc-8228-40fb2aadd433",
-        "e7617e91-447d-46ab-9e0a-7baa0b66c984"
+        "61b545d5-5d0c-4287-a3b4-83d66430ad97"
       ],
       "settings": {
-        "heading": "Whale hello there!"
+        "heading": "Custom Heading for Images"
       }
     }
   },
@@ -257,6 +247,6 @@
     "collage",
     "video",
     "8bfd2f1f-b5df-416b-b85c-ade335af51ca",
-    "0c381fa0-6bf4-4d5a-9aa2-7335f6cc4cc2"
+    "d1d5c9f0-f5b2-49a8-b082-1d4ae08abb4c"
   ]
 }
