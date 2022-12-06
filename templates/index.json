@@ -221,29 +221,20 @@
         "heading": "My custom heading"
       }
     },
-    "d1d5c9f0-f5b2-49a8-b082-1d4ae08abb4c": {
+    "67a2dbb1-7b21-4050-b4ee-e0720f37a870": {
       "type": "image-selector",
       "blocks": {
-        "61b545d5-5d0c-4287-a3b4-83d66430ad97": {
+        "897f4d85-5584-46b6-bd46-acbf0823210d": {
           "type": "column",
           "settings": {
-            "id": "shopify:\/\/shop_images\/2596E9D6-493C-4EE5-BE5D-BC70602D4548.jpg",
-            "title": "Hello There!",
-            "description": "beautifully handmade table"
-          }
-        },
-        "4b4d4537-ed66-4c40-b8cf-c48216e4d5c2": {
-          "type": "column",
-          "settings": {
-            "id": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
-            "title": "Hello again",
-            "description": "bowls for days"
+            "image": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
+            "title": "Aerial Photography",
+            "description": "taken in BC"
           }
         }
       },
       "block_order": [
-        "61b545d5-5d0c-4287-a3b4-83d66430ad97",
-        "4b4d4537-ed66-4c40-b8cf-c48216e4d5c2"
+        "897f4d85-5584-46b6-bd46-acbf0823210d"
       ],
       "settings": {
         "heading": "Custom Heading for Images"
@@ -257,6 +248,6 @@
     "collage",
     "video",
     "8bfd2f1f-b5df-416b-b85c-ade335af51ca",
-    "d1d5c9f0-f5b2-49a8-b082-1d4ae08abb4c"
+    "67a2dbb1-7b21-4050-b4ee-e0720f37a870"
   ]
 }
