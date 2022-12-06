@@ -221,29 +221,21 @@
         "heading": "My custom heading"
       }
     },
-    "67a2dbb1-7b21-4050-b4ee-e0720f37a870": {
+    "5bc824cf-347b-4671-a097-97d37cbb6328": {
       "type": "image-selector",
       "blocks": {
-        "897f4d85-5584-46b6-bd46-acbf0823210d": {
+        "db15add8-9dc2-46af-912e-8daf53d7c60e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
-            "title": "Aerial Photography",
-            "description": "taken in BC"
-          }
-        },
-        "49b92b8c-36c4-4267-814a-82fbbd3059e8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg",
-            "title": "Wooden Bowl",
-            "description": "Handmade in Vancouver"
+            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
+            "imageTwo": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg",
+            "imageThree": "shopify:\/\/shop_images\/Eileen_Kiyonaga-Hoarfrost-1.jpg",
+            "imageFour": "shopify:\/\/shop_images\/D3186608-6227-4C66-BA48-990A18DDA279.jpg"
           }
         }
       },
       "block_order": [
-        "897f4d85-5584-46b6-bd46-acbf0823210d",
-        "49b92b8c-36c4-4267-814a-82fbbd3059e8"
+        "db15add8-9dc2-46af-912e-8daf53d7c60e"
       ],
       "settings": {
         "heading": "Custom Heading for Images"
@@ -257,6 +249,6 @@
     "collage",
     "video",
     "8bfd2f1f-b5df-416b-b85c-ade335af51ca",
-    "67a2dbb1-7b21-4050-b4ee-e0720f37a870"
+    "5bc824cf-347b-4671-a097-97d37cbb6328"
   ]
 }
