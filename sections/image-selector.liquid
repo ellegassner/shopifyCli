@@ -2,7 +2,9 @@
 <h2>{{ section.settings.heading }}</h2>
 <div class="mainContainer">
   {% for block in section.blocks %}
-    <img src="{{ block.settings.image | img_url: 'master'}}"/>
+    <div class="imageContainer">
+      <img src="{{ block.settings.image | img_url: 'master'}}"/>
+    </div>
   {% endfor %}
 </div>
 
