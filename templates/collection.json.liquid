@@ -9,17 +9,17 @@
         "title": "{{ product.title }}",
         "variants" : [
           {% for variant in collection.variants %}
-            {
-              "id": {{ variant.id }},
-              "option1" : "{{ variant.option1 }}",
-              "option2" : "{{ variant.option2 }}",
-              "option3" : "{{ variant.option3 }}"
-            }
-          {%  unless forloop.last %}, {% endunless %}
+              {
+                "id": {{ variant.id }},
+                "option1" : "{{ variant.option1 }}",
+                "option2" : "{{ variant.option2 }}",
+                "option3" : "{{ variant.option3 }}"
+              }
+            {%  unless forloop.last %}, {% endunless %}
           {% endfor %}
         ]
       }
-    {%  unless forloop.last %}, {% endunless %}
+      {%  unless forloop.last %}, {% endunless %}
     {% endfor %}
   ]
   
