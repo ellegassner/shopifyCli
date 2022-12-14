@@ -79,17 +79,17 @@
         "template--15983401500844__f4cfe988-7627-4e7d-981b-673740d3ea40-16710550503d9b033b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/S_C_Wood_Designs-9_59c63783-e4e6-48a1-a6a6-4cb37bc69d47.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/Wendy_and_Elle_Website_Photo.png",
+        "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     },
     "collage": {
