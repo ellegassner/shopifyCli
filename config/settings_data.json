@@ -113,8 +113,8 @@
           "footer-1": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Our store is permanently closed.",
+              "subtext": "<p>We are sad to announce that we have officially closed our store. However, we treasure the relationships and community that we have helped to build over the last couple years.<\/p>"
             }
           }
         },
