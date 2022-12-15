@@ -1,0 +1,29 @@
+{% layout none %}
+
+<div id="app">
+  
+</div>
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<script>
+  const options = {
+    name: "Collection App",
+    data() {
+      return {
+        collection: null
+      }
+    },
+    methods: {
+      grabCollection() {
+        fetch('https://bc-makers-collective.myshopify.com/collections/{{collection.handle}}?view=json')
+          .then(response => response.json())
+          .then(data => this.collection = data);
+      }
+    },
+    mounted() {
+      this.grabCollection();
+    }
+  }
+  const CollectionApp = View.createApp(options).mount('#app');
+</script>
