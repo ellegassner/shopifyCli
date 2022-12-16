@@ -1,7 +1,12 @@
 {% layout none %}
 
 <div id="app">
-  
+  <h1 v-html="collection.title"></h1>
+  <div v-for="product in collection.products"></div>
+    <h2 v-html="product.title"></h2>
+    <div v-for="variant in product.variants">
+      <button></button>
+    </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.37/vue.global.js"></script>
