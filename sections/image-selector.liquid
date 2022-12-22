@@ -1,15 +1,17 @@
-
-<h2>{{ section.settings.heading }}</h2>
-<div class="slideContainer">
-  {% for block in section.blocks %}
-    <div class="imageContainer">
-      <img src="{{ block.settings.image | img_url: 'master'}}" alt=""/>
-      <img src="{{ block.settings.imageTwo | img_url: 'master'}}" alt=""/>
-      <img src="{{ block.settings.imageThree | img_url: 'master'}}" alt=""/>
-      <img src="{{ block.settings.imageFour | img_url: 'master'}}" alt=""/>
-    </div>
-  {% endfor %}
+<div class="page-width">
+  <h2>{{ section.settings.heading }}</h2>
+  <div class="slideContainer">
+    {% for block in section.blocks %}
+      <div class="imageContainer">
+        <img src="{{ block.settings.image | img_url: 'master'}}" alt=""/>
+        <img src="{{ block.settings.imageTwo | img_url: 'master'}}" alt=""/>
+        <img src="{{ block.settings.imageThree | img_url: 'master'}}" alt=""/>
+        <img src="{{ block.settings.imageFour | img_url: 'master'}}" alt=""/>
+      </div>
+    {% endfor %}
+  </div>  
 </div>
+
 
 <style>
   h2 {

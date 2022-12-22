@@ -197,7 +197,6 @@
     },
     "5bc824cf-347b-4671-a097-97d37cbb6328": {
       "type": "image-selector",
-      "disabled": true,
       "blocks": {
         "db15add8-9dc2-46af-912e-8daf53d7c60e": {
           "type": "column",
