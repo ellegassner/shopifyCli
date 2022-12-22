@@ -195,28 +195,9 @@
         "heading": "My custom heading"
       }
     },
-    "5bc824cf-347b-4671-a097-97d37cbb6328": {
-      "type": "image-selector",
-      "blocks": {
-        "db15add8-9dc2-46af-912e-8daf53d7c60e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
-            "imageTwo": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg",
-            "imageThree": "shopify:\/\/shop_images\/Eileen_Kiyonaga-Hoarfrost-1.jpg",
-            "imageFour": "shopify:\/\/shop_images\/D3186608-6227-4C66-BA48-990A18DDA279.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "db15add8-9dc2-46af-912e-8daf53d7c60e"
-      ],
-      "settings": {
-        "heading": "Custom Heading for Images"
-      }
-    },
     "605da69e-a102-4504-9e56-b63ec5d0dd93": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--15983401500844__605da69e-a102-4504-9e56-b63ec5d0dd93-1671054179c075f40e-0": {
           "type": "text",
@@ -282,6 +263,7 @@
     },
     "618dcc30-91b4-468b-8bb4-bf5642fe1f42": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "heading_size": "h1",
@@ -309,6 +291,7 @@
     },
     "350bd1bf-8b6a-4aeb-b6e0-4d6178a265c2": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1011c354-94d7-4fec-839e-6b1b7fc3f53e": {
           "type": "heading",
@@ -353,6 +336,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867": {
+      "type": "image-selector",
+      "blocks": {
+        "3aeaa7d3-ea63-4ad8-adaf-2b1c76a62dc7": {
+          "type": "Slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg"
+          }
+        },
+        "3bd40710-47b6-4f11-a445-5119a7a17fba": {
+          "type": "Slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
+          }
+        },
+        "e72bc829-de7a-4eed-9891-8295be4a9c49": {
+          "type": "Slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BC_Makers_Collective-Photoshoot-76_2.jpg"
+          }
+        },
+        "132cc9a9-89ce-402e-a7fe-512b7d974526": {
+          "type": "Slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "3aeaa7d3-ea63-4ad8-adaf-2b1c76a62dc7",
+        "3bd40710-47b6-4f11-a445-5119a7a17fba",
+        "e72bc829-de7a-4eed-9891-8295be4a9c49",
+        "132cc9a9-89ce-402e-a7fe-512b7d974526"
+      ],
+      "settings": {
+        "heading": "Custom Heading for Images"
+      }
     }
   },
   "order": [
@@ -360,10 +381,10 @@
     "f4cfe988-7627-4e7d-981b-673740d3ea40",
     "collage",
     "8bfd2f1f-b5df-416b-b85c-ade335af51ca",
-    "5bc824cf-347b-4671-a097-97d37cbb6328",
     "605da69e-a102-4504-9e56-b63ec5d0dd93",
     "618dcc30-91b4-468b-8bb4-bf5642fe1f42",
     "350bd1bf-8b6a-4aeb-b6e0-4d6178a265c2",
-    "ea26afb0-7af0-4842-a7a1-10228c9ca46b"
+    "ea26afb0-7af0-4842-a7a1-10228c9ca46b",
+    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867"
   ]
 }
