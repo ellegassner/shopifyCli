@@ -3,11 +3,17 @@
   <div class="slideContainer">
     {% for block in section.blocks %}
       <div class="imageContainer">
-        <img src="{{ block.settings.image | img_url: 'master'}}" alt=""/>
+        {%- if section.settings.image != blank -%}
+          <img src="{{ block.settings.image | img_url: 'master'}}" alt=""/>
+        {%- else -%}
+          {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+        {%- endif -%}
       </div>
     {% endfor %}
   </div>  
 </div>
+
+
 
 
 <style>
