@@ -4,9 +4,6 @@
     {% for block in section.blocks %}
       <div class="imageContainer">
         <img src="{{ block.settings.image | img_url: 'master'}}" alt=""/>
-        <img src="{{ block.settings.imageTwo | img_url: 'master'}}" alt=""/>
-        <img src="{{ block.settings.imageThree | img_url: 'master'}}" alt=""/>
-        <img src="{{ block.settings.imageFour | img_url: 'master'}}" alt=""/>
       </div>
     {% endfor %}
   </div>  
@@ -43,27 +40,12 @@
     ],
     "blocks": [
       {
-        "type": "column",
+        "type": "Slide",
         "name": "slide",
         "settings" : [
           {
             "type" : "image_picker",
             "id" : "image",
-            "label": "Select an Image"
-          },
-          {
-            "type" : "image_picker",
-            "id" : "imageTwo",
-            "label": "Select an Image"
-          },
-          {
-            "type" : "image_picker",
-            "id" : "imageThree",
-            "label": "Select an Image"
-          },
-          {
-            "type" : "image_picker",
-            "id" : "imageFour",
             "label": "Select an Image"
           }
         ]
