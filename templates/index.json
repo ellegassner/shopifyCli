@@ -340,36 +340,36 @@
     "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867": {
       "type": "image-selector",
       "blocks": {
-        "3aeaa7d3-ea63-4ad8-adaf-2b1c76a62dc7": {
-          "type": "Slide",
+        "63afafd3-1809-4613-8228-850d3a76059c": {
+          "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg"
           }
         },
-        "3bd40710-47b6-4f11-a445-5119a7a17fba": {
-          "type": "Slide",
+        "98798bb1-2303-445c-bd20-a6e7bada9ad3": {
+          "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
+            "image": "shopify:\/\/shop_images\/28B59729-BEE9-4949-9E7E-B54DFAC3AE83.jpg"
           }
         },
-        "e72bc829-de7a-4eed-9891-8295be4a9c49": {
-          "type": "Slide",
+        "40cbaf0f-dc79-4813-b5aa-66499f2de16f": {
+          "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BC_Makers_Collective-Photoshoot-76_2.jpg"
+            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg"
           }
         },
-        "132cc9a9-89ce-402e-a7fe-512b7d974526": {
-          "type": "Slide",
+        "9f0471a7-3031-4cf4-81d9-5e876e7fc292": {
+          "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg"
+            "image": "shopify:\/\/shop_images\/2596E9D6-493C-4EE5-BE5D-BC70602D4548.jpg"
           }
         }
       },
       "block_order": [
-        "3aeaa7d3-ea63-4ad8-adaf-2b1c76a62dc7",
-        "3bd40710-47b6-4f11-a445-5119a7a17fba",
-        "e72bc829-de7a-4eed-9891-8295be4a9c49",
-        "132cc9a9-89ce-402e-a7fe-512b7d974526"
+        "63afafd3-1809-4613-8228-850d3a76059c",
+        "98798bb1-2303-445c-bd20-a6e7bada9ad3",
+        "40cbaf0f-dc79-4813-b5aa-66499f2de16f",
+        "9f0471a7-3031-4cf4-81d9-5e876e7fc292"
       ],
       "settings": {
         "heading": "Custom Heading for Images"
