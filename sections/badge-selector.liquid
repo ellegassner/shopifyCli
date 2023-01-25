@@ -1,5 +1,6 @@
 <div class="page-width">
   <div class="slideContainer">
+    {% for settings in section.settings %}
       <div class="imageContainer">
         {%- if section.settings.image != blank -%}
           <img src="{{ section.settings.image | img_url: 'master'}}" alt=""/>
@@ -7,6 +8,7 @@
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
         {%- endif -%}
       </div>
+    {% endfor %}
   </div>  
 </div>
 
