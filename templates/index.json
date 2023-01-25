@@ -374,6 +374,15 @@
       "settings": {
         "heading": "All of my awesome badges"
       }
+    },
+    "eb087679-4317-4e96-9d3e-1dec4f2844d7": {
+      "type": "badge-selector",
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg",
+        "image2": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
+        "image3": "shopify:\/\/shop_images\/Jenna_Jones_Art-Banner_Photo-1.jpg",
+        "image4": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
+      }
     }
   },
   "order": [
@@ -385,6 +394,7 @@
     "618dcc30-91b4-468b-8bb4-bf5642fe1f42",
     "350bd1bf-8b6a-4aeb-b6e0-4d6178a265c2",
     "ea26afb0-7af0-4842-a7a1-10228c9ca46b",
-    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867"
+    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867",
+    "eb087679-4317-4e96-9d3e-1dec4f2844d7"
   ]
 }
