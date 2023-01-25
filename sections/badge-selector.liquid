@@ -1,12 +1,68 @@
+<div class="page-width">
+  <div class="slideContainer">
+      <div class="imageContainer">
+        {%- if section.settings.image != blank -%}
+          <img src="{{ section.settings.image | img_url: 'master'}}" alt=""/>
+        {%- else -%}
+          {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+        {%- endif -%}
+      </div>
+  </div>  
+</div>
+
+
+
+
+<style>
+
+  .slideContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .imageContainer {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  
+  .imageContainer img {
+    width: 150px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+
+  @media screen and (min-width: 600px) {
+    .imageContainer img {
+      width: 200px;
+    }
+  }
+
+  @media screen and (min-width: 920px) {
+  .imageContainer {
+    width: inherit;
+  }
+}
+  
+</style>
+
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Image Selector",
+    "tag": "section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }
+    ],
+    "presets": [
+      {
+        "name":"Image Selector"
+      }
+    ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
