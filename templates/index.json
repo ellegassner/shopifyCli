@@ -340,36 +340,36 @@
     "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867": {
       "type": "image-selector",
       "blocks": {
-        "27a1d94b-7cc2-4419-9d29-037a23a12850": {
-          "type": "option",
+        "256b40b0-1abb-402a-a7bf-e743dac971a2": {
+          "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg"
+            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
           }
         },
-        "f4281496-99a3-4049-9cac-8c5ed4d5ffa7": {
-          "type": "option",
+        "ce436002-0f3d-40c0-94e3-2603760684fd": {
+          "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/28B59729-BEE9-4949-9E7E-B54DFAC3AE83.jpg"
+            "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo_41e5fdca-bbda-4447-ab2c-dc989bef57b2.jpg"
           }
         },
-        "594357a8-d59f-4f58-b9ff-0ec3dc6f1174": {
-          "type": "option",
+        "383cccd4-8e94-4960-b80b-197947871ec3": {
+          "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/13E17DE1-8ECC-47D3-882C-BBAA183E3D2C.jpg"
+            "image": "shopify:\/\/shop_images\/D123B65A-C45A-41FA-A9F0-452FEBB094E5.jpg"
           }
         },
-        "971a85f9-e972-408a-ba02-189e37fc3b0f": {
-          "type": "option",
+        "61da7a91-f1d9-4e4b-855c-b128086f7114": {
+          "type": "media",
           "settings": {
-            "image": "shopify:\/\/shop_images\/D3186608-6227-4C66-BA48-990A18DDA279.jpg"
+            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg"
           }
         }
       },
       "block_order": [
-        "27a1d94b-7cc2-4419-9d29-037a23a12850",
-        "f4281496-99a3-4049-9cac-8c5ed4d5ffa7",
-        "594357a8-d59f-4f58-b9ff-0ec3dc6f1174",
-        "971a85f9-e972-408a-ba02-189e37fc3b0f"
+        "256b40b0-1abb-402a-a7bf-e743dac971a2",
+        "ce436002-0f3d-40c0-94e3-2603760684fd",
+        "383cccd4-8e94-4960-b80b-197947871ec3",
+        "61da7a91-f1d9-4e4b-855c-b128086f7114"
       ],
       "settings": {
         "heading": "All of my awesome badges"
