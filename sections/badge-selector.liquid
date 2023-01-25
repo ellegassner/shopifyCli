@@ -1,6 +1,6 @@
 <div class="page-width">
-  <div class="slideContainer">
-      <div class="imageContainer">
+  <div class="sliderContainer">
+      <div class="imagerContainer">
           <img src="{{ section.settings.image1 | img_url: 'master'}}" alt=""/>
           <img src="{{ section.settings.image2 | img_url: 'master'}}" alt=""/>
           <img src="{{ section.settings.image3 | img_url: 'master'}}" alt=""/>
@@ -17,12 +17,12 @@
     justify-content: space-around;
   } */
 
-  .imageContainer {
+  .imagerContainer {
     display: flex;
     justify-content: space-around;
   }
   
-  .imageContainer img {
+  .imagerContainer img {
     width: 150px;
     aspect-ratio: 1/1;
     object-fit: cover;
