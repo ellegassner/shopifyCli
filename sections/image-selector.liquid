@@ -59,6 +59,14 @@
     "name": "Image Selector",
     "tag": "section",
     "max_blocks": 4,
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading",
+        "default": "Custom Heading for Images"
+      }
+    ],
     "blocks": [
       {
         "type": "media",
@@ -75,6 +83,9 @@
     "presets": [
       {
         "name":"Image Selector",
+        "settings": {
+          "heading": "Image Selector"
+        },
         "blocks": [
           {
             "type": "media"
