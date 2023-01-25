@@ -340,36 +340,36 @@
     "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867": {
       "type": "image-selector",
       "blocks": {
-        "63afafd3-1809-4613-8228-850d3a76059c": {
-          "type": "slide",
+        "27a1d94b-7cc2-4419-9d29-037a23a12850": {
+          "type": "option",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg"
           }
         },
-        "98798bb1-2303-445c-bd20-a6e7bada9ad3": {
-          "type": "slide",
+        "f4281496-99a3-4049-9cac-8c5ed4d5ffa7": {
+          "type": "option",
           "settings": {
             "image": "shopify:\/\/shop_images\/28B59729-BEE9-4949-9E7E-B54DFAC3AE83.jpg"
           }
         },
-        "40cbaf0f-dc79-4813-b5aa-66499f2de16f": {
-          "type": "slide",
+        "594357a8-d59f-4f58-b9ff-0ec3dc6f1174": {
+          "type": "option",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg"
+            "image": "shopify:\/\/shop_images\/13E17DE1-8ECC-47D3-882C-BBAA183E3D2C.jpg"
           }
         },
-        "3f33b720-5c79-4fe1-8418-061a2beda6ee": {
-          "type": "slide",
+        "971a85f9-e972-408a-ba02-189e37fc3b0f": {
+          "type": "option",
           "settings": {
-            "image": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg"
+            "image": "shopify:\/\/shop_images\/D3186608-6227-4C66-BA48-990A18DDA279.jpg"
           }
         }
       },
       "block_order": [
-        "63afafd3-1809-4613-8228-850d3a76059c",
-        "98798bb1-2303-445c-bd20-a6e7bada9ad3",
-        "40cbaf0f-dc79-4813-b5aa-66499f2de16f",
-        "3f33b720-5c79-4fe1-8418-061a2beda6ee"
+        "27a1d94b-7cc2-4419-9d29-037a23a12850",
+        "f4281496-99a3-4049-9cac-8c5ed4d5ffa7",
+        "594357a8-d59f-4f58-b9ff-0ec3dc6f1174",
+        "971a85f9-e972-408a-ba02-189e37fc3b0f"
       ],
       "settings": {
         "heading": "All of my awesome badges"
