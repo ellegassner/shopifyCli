@@ -1,45 +1,28 @@
 <div class="page-width">
   <div class="slideContainer">
-      <div class="imageContainer1">
+      <div class="imageContainer">
           <img src="{{ section.settings.image1 | img_url: 'master'}}" alt=""/>
-      </div>
-      <div class="imageContainer2">
           <img src="{{ section.settings.image2 | img_url: 'master'}}" alt=""/>
-      </div>    
-      <div class="imageContainer3">
           <img src="{{ section.settings.image3 | img_url: 'master'}}" alt=""/>
-      </div>
-      <div class="imageContainer4">
           <img src="{{ section.settings.image4 | img_url: 'master'}}" alt=""/>
-      </div>
   </div>  
 </div>
 
 
-
-
 <style>
 
-  .slideContainer {
+/*   .slideContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-  }
+  } */
 
-  .imageContainer1,
-  .imageContainer2,
-  .imageContainer3,
-  .imageContainer4, {
-    width: 50%;
+  .imageContainer {
     display: flex;
-    justify-content: center;
-    padding-bottom: 20px;
+    justify-content: space-around;
   }
   
-  .imageContainer1 img,
-  .imageContainer2 img,
-  .imageContainer3 img,
-  .imageContainer4 img, {
+  .imageContainer img {
     width: 150px;
     aspect-ratio: 1/1;
     object-fit: cover;
