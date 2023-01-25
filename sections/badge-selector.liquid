@@ -2,8 +2,8 @@
   <div class="slideContainer">
     {% for settings in section.settings %}
       <div class="imageContainer">
-        {%- if section.settings.image != blank -%}
-          <img src="{{ section.settings.image | img_url: 'master'}}" alt=""/>
+        {%- if section.settings.image1 != blank -%}
+          <img src="{{ section.settings.image1 | img_url: 'master'}}" alt=""/>
         {%- else -%}
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
         {%- endif -%}
