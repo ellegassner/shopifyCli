@@ -1,10 +1,18 @@
 <div class="page-width">
-      <div class="imageContainer">
+  <div class="slideContainer">
+      <div class="imageContainer1">
           <img src="{{ section.settings.image1 | img_url: 'master'}}" alt=""/>
+      </div>
+      <div class="imageContainer2">
           <img src="{{ section.settings.image2 | img_url: 'master'}}" alt=""/>
+      </div>    
+      <div class="imageContainer3">
           <img src="{{ section.settings.image3 | img_url: 'master'}}" alt=""/>
+      </div>
+      <div class="imageContainer4">
           <img src="{{ section.settings.image4 | img_url: 'master'}}" alt=""/>
-      </div> 
+      </div>
+  </div>  
 </div>
 
 
@@ -12,13 +20,13 @@
 
 <style>
 
-  .imageContainer {
+  .slideContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
   }
 
-  .imageContainer img {
+  .imageContainer {
     width: 50%;
     display: flex;
     justify-content: center;
