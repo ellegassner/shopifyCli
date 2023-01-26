@@ -322,6 +322,7 @@
     },
     "ea26afb0-7af0-4842-a7a1-10228c9ca46b": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
@@ -336,53 +337,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867": {
-      "type": "image-selector",
-      "blocks": {
-        "256b40b0-1abb-402a-a7bf-e743dac971a2": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
-          }
-        },
-        "ce436002-0f3d-40c0-94e3-2603760684fd": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo_41e5fdca-bbda-4447-ab2c-dc989bef57b2.jpg"
-          }
-        },
-        "383cccd4-8e94-4960-b80b-197947871ec3": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/D123B65A-C45A-41FA-A9F0-452FEBB094E5.jpg"
-          }
-        },
-        "61da7a91-f1d9-4e4b-855c-b128086f7114": {
-          "type": "media",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Ebonized_bowl_3_6d32c65d-e5b6-4aa3-8447-bbb15b4f0976.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "256b40b0-1abb-402a-a7bf-e743dac971a2",
-        "ce436002-0f3d-40c0-94e3-2603760684fd",
-        "383cccd4-8e94-4960-b80b-197947871ec3",
-        "61da7a91-f1d9-4e4b-855c-b128086f7114"
-      ],
-      "settings": {
-        "heading": "All of my awesome badges"
-      }
-    },
-    "eb087679-4317-4e96-9d3e-1dec4f2844d7": {
-      "type": "badge-selector",
-      "settings": {
-        "image1": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg",
-        "image2": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
-        "image3": "shopify:\/\/shop_images\/Jenna_Jones_Art-Banner_Photo-1.jpg",
-        "image4": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg"
-      }
     }
   },
   "order": [
@@ -393,8 +347,6 @@
     "605da69e-a102-4504-9e56-b63ec5d0dd93",
     "618dcc30-91b4-468b-8bb4-bf5642fe1f42",
     "350bd1bf-8b6a-4aeb-b6e0-4d6178a265c2",
-    "ea26afb0-7af0-4842-a7a1-10228c9ca46b",
-    "1aedf4e8-b5af-46ea-a4dc-6e4fd28b2867",
-    "eb087679-4317-4e96-9d3e-1dec4f2844d7"
+    "ea26afb0-7af0-4842-a7a1-10228c9ca46b"
   ]
 }
