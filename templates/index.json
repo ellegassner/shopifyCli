@@ -337,6 +337,32 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "754025dc-6280-4f75-ae01-0c61a0b6b371": {
+      "type": "badges",
+      "blocks": {
+        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg",
+            "title": "facebook"
+          }
+        },
+        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
+            "title": "Instagram"
+          }
+        }
+      },
+      "block_order": [
+        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-0",
+        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-1"
+      ],
+      "settings": {
+        "heading": "Image Selector"
+      }
     }
   },
   "order": [
@@ -347,6 +373,7 @@
     "605da69e-a102-4504-9e56-b63ec5d0dd93",
     "618dcc30-91b4-468b-8bb4-bf5642fe1f42",
     "350bd1bf-8b6a-4aeb-b6e0-4d6178a265c2",
-    "ea26afb0-7af0-4842-a7a1-10228c9ca46b"
+    "ea26afb0-7af0-4842-a7a1-10228c9ca46b",
+    "754025dc-6280-4f75-ae01-0c61a0b6b371"
   ]
 }
