@@ -347,10 +347,18 @@
             "image": "shopify:\/\/shop_images\/Rebecca_Santry-Banner_Photo.jpg",
             "title": "tiktok"
           }
+        },
+        "0d532617-b719-4ed9-b511-4b2f219629dc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C18A2691-3B9D-4164-859F-C09FECE14878.jpg",
+            "title": "SnapChat"
+          }
         }
       },
       "block_order": [
-        "b86306a1-977e-43a7-8119-b96a16743d75"
+        "b86306a1-977e-43a7-8119-b96a16743d75",
+        "0d532617-b719-4ed9-b511-4b2f219629dc"
       ],
       "settings": {
         "heading": "Image Selector"
