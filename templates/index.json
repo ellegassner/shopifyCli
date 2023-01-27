@@ -354,11 +354,19 @@
             "image": "shopify:\/\/shop_images\/Twice_Turned-Ceramic_Bowl_with_Cherry_Wood_Lid-1.jpg",
             "title": "Instagram"
           }
+        },
+        "ee5fa465-20be-4e8e-be63-fad9dfcdbfba": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
+            "title": "TikTok"
+          }
         }
       },
       "block_order": [
         "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-0",
-        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-1"
+        "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-1",
+        "ee5fa465-20be-4e8e-be63-fad9dfcdbfba"
       ],
       "settings": {
         "heading": "Image Selector"
