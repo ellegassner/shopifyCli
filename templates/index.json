@@ -361,12 +361,20 @@
             "image": "shopify:\/\/shop_images\/Lower_Mainland_Helicopter-07.jpg",
             "title": "TikTok"
           }
+        },
+        "00d1f190-35f1-44e9-bb18-b2576ca36e04": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D123B65A-C45A-41FA-A9F0-452FEBB094E5.jpg",
+            "title": "Snap Chat"
+          }
         }
       },
       "block_order": [
         "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-0",
         "template--15983401500844__754025dc-6280-4f75-ae01-0c61a0b6b371-167478364152b0b5de-1",
-        "ee5fa465-20be-4e8e-be63-fad9dfcdbfba"
+        "ee5fa465-20be-4e8e-be63-fad9dfcdbfba",
+        "00d1f190-35f1-44e9-bb18-b2576ca36e04"
       ],
       "settings": {
         "heading": "Image Selector"
